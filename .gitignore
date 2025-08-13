@@ -1,0 +1,25 @@
+# mac / OS
+.DS_Store
+
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.venv/
+venv/
+
+# VS Code
+.vscode/*
+!.vscode/settings.json
+!.vscode/launch.json
+
+# data / cache
+*.npy
+*.npz
+*.log
+
+# builds
+dist/
+build/
